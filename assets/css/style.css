@@ -12,6 +12,17 @@ body {
     font-size:14px;
 }
 
+.aboutbox { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.aboutbox img {
+    width 240px;
+    height: 800px;
+}
+
 a {
     transition: all 0.35s ease 0s;
     -webkit-transition: all 0.35s ease 0s;
