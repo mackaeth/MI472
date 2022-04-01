@@ -71,9 +71,9 @@ a {
     width: 100%;
 }
 nav {
-    background: #fff none repeat scroll 0 0 !important;
-    border: 0 none !important;
-    border-radius: 0 !important;
+    background: #fff none repeat scroll 0 0;
+    border: 0 none;
+    border-radius: 0;
     float: left;
     width: 100%;
 }
@@ -96,7 +96,7 @@ color:#fff;
     padding-top: 15px;
 }
 .navbar-default {
-    background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
     background-color: purple;
@@ -105,7 +105,7 @@ color:#fff;
 }
 .affix
 {
- background: rgba(0, 0, 0, 0.9) none repeat scroll 0 0 !important;
+ background: rgba(0, 0, 0, 0.9) none repeat scroll 0 0;
 transition: all 0.35s ease 0s;
 }
 .navbar-default .navbar-nav > li > a {
